@@ -1,8 +1,8 @@
 # checkGit
 check the past time of the latest push of specific git repos  
 
-using GitHub public API
-using request.js
+using GitHub public API  
+using request.js  
 checking is concurrent  
 
 ## build
